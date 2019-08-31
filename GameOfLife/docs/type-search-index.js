@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.rpi.cs.cs4963.u19.wardz2.hw02.gol_gui","l":"Life"},{"p":"edu.rpi.cs.cs4963.u19.wardz2.hw02.gol_gui","l":"MyComponent"},{"p":"edu.rpi.cs.cs4963.u19.wardz2.hw02.gol_gui","l":"MyFrame"}]
