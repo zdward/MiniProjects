@@ -6,9 +6,9 @@ The mini-projects in this repository include:
 
 (1) Conway's Game of Life Simulator (using Java Swing GUI)   
 
-(2) Network Programmed 2 player BattleShip (using Java)  
+(2) Network Programmed 2 player BattleShip (using Java Swing, TCP Server/Client)  
 
-(3) Network Programmed 32-user chat server (using C)  
+(3) Network Programmed 32-user chat server (using C, TCP and UDP implemented)  
 
 (4) Multi-threaded solution to the Knights Tour Problem for an n x n board (using C)  
 
