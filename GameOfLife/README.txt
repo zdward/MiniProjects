@@ -5,7 +5,7 @@ Conway's Game of Life Simulator README (Zachary Ward)
 README:
 _____________________________________________________________________________________________________
 
-All contents in the provided zip file are necessary for successful compilation / run of this program. If the wrong file is deleted, compilation errors may occur. That being said, as long as nothing is deleted, everything will be okay!
+All contents in the provided zip file (this directory) are necessary for successful compilation / run of this program. If the wrong file is deleted, compilation errors may occur. That being said, as long as nothing is deleted, everything will be okay!
 
 To run the program, use the command line to cd into the given folder (this folder). Then, simply run
 
